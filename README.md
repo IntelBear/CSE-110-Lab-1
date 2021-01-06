@@ -9,13 +9,13 @@ A quote I really liked from a recent movie I watched was Klaus' signature quote 
 
 This site was built using [Github Pages](https://pages.github.com/)
 
-My Goals for 2021 are:
+### My Goals for 2021 are:
 - To continue to adopt new tools into my skillset
   - Both front-end and back-end tools and languages 
 - To maintain good physical, mental, and social health
 - Develop my specific interests within the field of software engineering
 
-A Man of Unexpected Interests
+### A Man of Unexpected Interests:
 
 [x] Bakes cakes as a hobby
 
@@ -25,7 +25,7 @@ A Man of Unexpected Interests
 
 [x] Terrified of the things lurking in the ocean
 
-My Life as a Software/QA Intern:
+### My Life as a Software/QA Intern:
 [Meme](Funny_Meme.png)
 
 '''
