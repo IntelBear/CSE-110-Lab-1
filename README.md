@@ -22,4 +22,4 @@ A Man of Unexpected Interests
 [x] Terrified of the things lurking in the ocean
 
 My Life as a Software/QA Intern:
-[](Funny_meme.png)
+[Meme](Funny_meme.png)
