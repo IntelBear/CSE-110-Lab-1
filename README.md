@@ -28,6 +28,6 @@ This site was built using [Github Pages](https://pages.github.com/)
 ### My Life as a Software/QA Intern:
 [Meme](Funny_Meme.png)
 
-'''
+```
 console.log("That's me yikes")
-'''
+```
