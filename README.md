@@ -7,7 +7,7 @@ A quote I really liked from a recent movie I watched was Klaus' signature quote 
 
 > "A true act of good will always sparks another"
 
-My [Linkedin Account](www.linkedin.com/in/bryant-shao)
+This site was built using [Github Pages](https://pages.github.com/)
 
 My Goals for 2021 are:
 - To continue to adopt new tools into my skillset
@@ -22,4 +22,4 @@ A Man of Unexpected Interests
 [x] Terrified of the things lurking in the ocean
 
 My Life as a Software/QA Intern:
-[Meme](Funny_meme.png)
+[Meme](Funny_Meme.png)
