@@ -11,15 +11,23 @@ This site was built using [Github Pages](https://pages.github.com/)
 
 My Goals for 2021 are:
 - To continue to adopt new tools into my skillset
- - Both front-end and back-end tools and languages 
+  - Both front-end and back-end tools and languages 
 - To maintain good physical, mental, and social health
 - Develop my specific interests within the field of software engineering
 
 A Man of Unexpected Interests
+
 [x] Bakes cakes as a hobby
+
 [x] Loves rollercoasters
+
 [x] Wants to go skydiving/bungee jumping
+
 [x] Terrified of the things lurking in the ocean
 
 My Life as a Software/QA Intern:
 [Meme](Funny_Meme.png)
+
+'''
+console.log("That's me yikes")
+'''
