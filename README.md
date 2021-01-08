@@ -26,7 +26,7 @@ This site was built using [Github Pages](https://pages.github.com/)
 [x] Terrified of the things lurking in the ~~deep~~ **REALLY DEEP** ocean
 
 ### My Life as a Software/QA Intern:
-[Meme](Funny_Meme.png)
+![Meme](Funny_Meme.png)
 
 ```
 console.log("That's me yikes")
