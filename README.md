@@ -23,7 +23,7 @@ This site was built using [Github Pages](https://pages.github.com/)
 
 [x] Wants to go skydiving/bungee jumping
 
-[x] Terrified of the things lurking in the ocean
+[x] Terrified of the things lurking in the ~~deep~~**REALLY DEEP** ocean
 
 ### My Life as a Software/QA Intern:
 [Meme](Funny_Meme.png)
